@@ -78,10 +78,12 @@ body {
   padding: 0.375rem 0.875rem;
   border-radius: 9999px;
   box-shadow: inset 2px 2px 5px #d1d9e6, inset -2px -2px 5px #ffffff;
+  white-space: nowrap;
 }
 
 [data-theme="dark"] .badge {
   box-shadow: inset 2px 2px 5px #0f0f0f, inset -2px -2px 5px #252525;
+  white-space: nowrap;
 }
 
 .skill-item {
